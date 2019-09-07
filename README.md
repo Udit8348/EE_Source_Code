@@ -22,7 +22,7 @@
 
 ![Saved](https://github.com/Udit8348/EE_Source_Code/blob/master/Screen_Captures/test_saved.png)
 ### Preview Program Output
-- See the enocder values, sampled every 50ms (20 Hz)
+- See the encoder values, sampled every 50ms (20 Hz)
 - See the elapsed time, sampled every 50ms (20 Hz)
 - Output path (file name) of the saved data
 
