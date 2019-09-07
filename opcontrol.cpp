@@ -156,16 +156,3 @@ if(startBtn.get_value()){
 		delay(10);	// 10ms delay
 	}
 }
-
-
-/*
-References:
-https://stackoverflow.com/questions/25201131/writing-csv-files-from-c
-
-*/
-
-/*
-debug statements:
-lcd::print(0, "%s", outputPATH);
-
-*/
