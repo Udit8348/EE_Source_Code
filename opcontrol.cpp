@@ -11,8 +11,7 @@ int independent = 0;
 int trialNumber = 0;
 int startTime = 0;
 std::ofstream outputFILE;
-//std::string outputDIR = "ee_data_9_6_19_10__31";	//file directory
-std::string outputDIR = "outline_data2_";	//file directory
+std::string outputDIR = "ee_data_9_6_19_10__31";	//file directory
 
 std::string outputPATH = "/usd/" + outputDIR + std::to_string(independent) + "_" + std::to_string(trialNumber) + ".csv";
 std::string outputDATA = "";
