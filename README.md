@@ -13,12 +13,12 @@
 
 ![Release](https://github.com/Udit8348/EE_Source_Code/blob/master/Screen_Captures/release.png)
 ### Step 3: Data Collection is Complete, Prompt to Save Data
-- Once the oscilations have settled at 0 degrees the data collection stops
+- Once the oscilations have settled near 0 degrees, the data collection stops
 - Prompts to save colllected data by pressing the right button
 
 ![Complete](https://github.com/Udit8348/EE_Source_Code/blob/master/Screen_Captures/test_complete.png)
 ### Step 4: Notify that the Program was Saved
-- Data was successfully saved to comma separed value file (.csv)
+- Data was successfully saved to .csv (comma separated value) file
 
 ![Saved](https://github.com/Udit8348/EE_Source_Code/blob/master/Screen_Captures/test_saved.png)
 ### Preview Program Output
