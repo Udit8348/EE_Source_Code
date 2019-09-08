@@ -8,7 +8,7 @@
 ![Pull Back](https://github.com/Udit8348/EE_Source_Code/blob/master/Screen_Captures/pull_back.png)
 ### Step 2: Prompt to Release Arm
 - 75: encoder measurement in degrees
-- 1: the arm is currently pressing the arm
+- 1: the arm is currently pressing the button
 - Data collection starts the instant the arm is released
 
 ![Release](https://github.com/Udit8348/EE_Source_Code/blob/master/Screen_Captures/release.png)
